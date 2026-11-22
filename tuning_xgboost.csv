@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+XGBoost - Deeper,33.849,50.388,0.488
+XGBoost - Default,34.06,50.465,0.4864
+XGBoost - Regularised,34.46,50.627,0.4831

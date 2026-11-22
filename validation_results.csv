@@ -1,0 +1,10 @@
+Model,MAE,RMSE,R2
+XGBoost (tuned),33.849,50.388,0.488
+XGBoost (default),34.06,50.465,0.4864
+Neural Network B — Entity Embedding (tuned: Deeper),33.876,51.823,0.4584
+Random Forest,35.142,52.198,0.4506
+Neural Network B — Entity Embedding (default),34.423,52.342,0.4475
+Neural Network A — MLP (one-hot),37.068,56.712,0.3514
+"Ridge Regression (tuned, alpha=100.0)",37.167,56.943,0.3461
+Ridge Regression (alpha=10),37.448,57.211,0.34
+Median Baseline,50.545,71.696,-0.0366

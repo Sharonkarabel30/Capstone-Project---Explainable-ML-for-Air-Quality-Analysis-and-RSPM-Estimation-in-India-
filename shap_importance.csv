@@ -1,0 +1,31 @@
+Feature,Mean_Absolute_SHAP
+numeric__no2,19.165394
+categorical__state_Uttar Pradesh,10.548494
+categorical__state_Punjab,5.488069
+numeric__so2,5.4213104
+numeric__month_cos,5.254639
+numeric__month_sin,5.094999
+numeric__year,5.0011725
+categorical__type_Industrial,4.6647453
+categorical__state_Rajasthan,2.9095745
+categorical__state_Kerala,2.6227565
+categorical__state_Tamil Nadu,2.293169
+categorical__state_Maharashtra,1.9632099
+categorical__state_Delhi,1.6355556
+categorical__location_Guwahati,1.3570648
+categorical__state_Karnataka,1.2236565
+categorical__state_West Bengal,1.0884833
+categorical__location_Chandrapur,1.0106688
+categorical__location_Gwalior,0.9550039
+categorical__location_Jodhpur,0.82869816
+categorical__state_Madhya Pradesh,0.79033184
+categorical__location_Ludhiana,0.75737077
+categorical__location_Allahabad,0.7536826
+categorical__location_Agra,0.73855853
+categorical__state_Jharkhand,0.73738056
+categorical__state_Andhra Pradesh,0.70522654
+categorical__location_Kanpur,0.7027222
+categorical__state_Haryana,0.61570734
+categorical__location_Indore,0.60240734
+categorical__state_Himachal Pradesh,0.5681731
+categorical__state_Chandigarh,0.5265437
