@@ -4,6 +4,7 @@ This repository contains my capstone project for AAI-590, Master of Science in A
 
 Below I have listed every file in this repository and what each one contains.
 
+# Dashboard Link: https://sharonkarabel30.github.io/Capstone-Project---Explainable-ML-for-Air-Quality-Analysis-and-RSPM-Estimation-in-India-/Air_pollution_Dashboard.html
 ## Files in this repository
 
 | File | What it contains |
