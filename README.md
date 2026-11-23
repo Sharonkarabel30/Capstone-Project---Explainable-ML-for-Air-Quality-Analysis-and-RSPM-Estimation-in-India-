@@ -4,8 +4,6 @@
 
 This project predicts the daily concentration of Respirable Suspended Particulate Matter (RSPM, PM10) at Indian air-quality monitoring stations. It compares four traditional machine-learning models with two neural networks, explains the best model with SHAP, and deploys the final models in an interactive dashboard.
 
-**Live dashboard:** *add your Streamlit link here after deployment*
-
 ## Results (untouched 2015 test set)
 
 | Model | MAE (µg/m³) | RMSE | R² |
